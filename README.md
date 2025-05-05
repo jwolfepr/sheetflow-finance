@@ -24,7 +24,7 @@ This repository contains:
 
 | Task                                             | Due Date   | Status | Link           |
 | ------------------------------------------------ | ---------- | :----: | :------------- |
-| Publish `POLICIES.md` to GitHub                  | 2025-05-15 |    ☐   | \[create link] |
+| Publish `POLICIES.md` to GitHub                  | 2025-05-15 |    ✔   | [POLICIES.md](https://github.com/jwolfepr/sheetflow-finance/blob/main/POLICIES.md) |
 | Adopt EOL Management (Dependabot)                | 2025-05-31 |    ☐   | \[create link] |
 | Enable Vulnerability Scans                       | 2025-05-31 |    ☐   | \[create link] |
 | Publish Privacy Policy (Google Doc → GitHub)     | 2025-05-10 |    ☐   | \[create link] |
