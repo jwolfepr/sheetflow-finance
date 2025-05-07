@@ -27,12 +27,12 @@ This repository contains:
 | Publish `POLICIES.md` to GitHub                  | 2025-05-15 |    ✔   | [POLICIES.md](https://github.com/jwolfepr/sheetflow-finance/blob/main/POLICIES.md) |
 | Adopt EOL Management (Dependabot)                | 2025-05-31 |    ☐   | \[create link] |
 | Enable Vulnerability Scans                       | 2025-05-31 |    ☐   | \[create link] |
-| Publish Privacy Policy (Google Doc → GitHub)     | 2025-05-10 |    ☐   | \[create link] |
+| Publish Privacy Policy (Google Doc → GitHub)     | 2025-05-10 |    ✔   | [POLICIES.md](https://github.com/jwolfepr/sheetflow-finance/blob/main/POLICIES.md) |
 | Implement Access Control (IAM review & lockdown) | 2025-05-20 |    ☐   | \[create link] |
 | Enable Consumer MFA (Plaid Link)                 | 2025-05-15 |    ☐   | \[create link] |
 | Enable Internal MFA (Google, GitHub, Plaid)      | 2025-05-15 |    ☐   | \[create link] |
-| Document Zero Trust Approach                     | 2025-06-01 |    ☐   | \[create link] |
-| Secure Tokens & Certificates                     | 2025-05-25 |    ☐   | \[create link] |
+| Document Zero Trust Approach                     | 2025-06-01 |    ✔   | [POLICIES.md](https://github.com/jwolfepr/sheetflow-finance/blob/main/POLICIES.md) |
+| Secure Tokens & Certificates                     | 2025-05-25 |    ✔   | [POLICIES.md](https://github.com/jwolfepr/sheetflow-finance/blob/main/POLICIES.md) |
 | Define Patch Management SLA                      | 2025-06-01 |    ☐   | \[create link] |
 
 ### Recurring Tasks (Operational)
